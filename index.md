@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+# Quantum Katas
 
-You can use the [editor on GitHub](https://github.com/MayoCh/Quantum-Katas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MayoCh/Quantum-Katas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project will involve working with [Microsoft's Quantum Katas](https://docs.microsoft.com/en-us/quantum/tutorials/intro-to-katas "Free and open source Q# tutorials"). I will document my personal experience working through the programming tasks within, eventually creating an experience report. The quantum katas have an inbuilt testing program that simulates if the Q# code will produce the desired results, determining if the written code is correct. Success in this case, however, will be measured by understanding both the quantum computing concept being demonstrated as well as the Q# functionality. If the correct result is understood, no matter how many attempts the quantum kata took it will be deemed as successful for the purposes of education in Q# and quantum computing. If the programming task requires additional information outside of the documentation provided, this will be noted, and the exact sources used in order to understand the concepts will be recorded. These sources will later be analyzed and the type of learning I find most effective will be acknowledged in the experience report. Documentation of the programming tasks and any areas where I struggle or succeed will be noted in a [Jupyter Notebook](https://jupyter.org/ "Code and word processor combined"). A Jupyter Notebook is the default method for which to view and attempt the Quantum Katas. The final experience report will analyze the successes, failures, and extra resources required that were documented in the Jupyter notebooks. A final presentation – a live narrated PowerPoint - on the experience report will also be prepared. 
