@@ -5,3 +5,5 @@ This project will involve working with [Microsoft's Quantum Katas](https://docs.
 
 ## Click below to view the quantum katas completed so far
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MayoCh/Quantum-Katas/HEAD?filepath=Completed_Katas%2FKataNavigation.ipynb)
+
+## NOTE: For some reason the Exploring Deutsch-Joza Algorithm Tutorial and the Grover's Algorithm tutorial don't link properly to the index notebook, but they can be accessed through the file system.
